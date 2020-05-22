@@ -1,4 +1,4 @@
-# inst326-final-project
+# INST326 Final Project
 """
 Our project focused on cleaning and analyzing a dataset of Olympic history across 120 years. We examined the relationships between the top performing countries and their physiques (height, weight, age, and body mass index).
 
